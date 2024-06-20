@@ -39,3 +39,4 @@ D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Search\obj\Debug\net8.0\r
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Search\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Search\bin\Debug\net8.0\Polly.dll
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Search\bin\Debug\net8.0\Polly.Extensions.Http.dll
+D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Search\obj\Debug\net8.0\ECommerce.Api.Search.sourcelink.json

@@ -36,3 +36,4 @@ D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Orders\bin\Debug\net8.0\M
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Orders\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Orders\bin\Debug\net8.0\AutoMapper.dll
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Orders\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Orders\obj\Debug\net8.0\ECommerce.Api.Orders.sourcelink.json

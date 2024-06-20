@@ -36,3 +36,4 @@ D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Customers\obj\Debug\net8.
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Customers\obj\Debug\net8.0\ECommerce.Api.Customers.pdb
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Customers\obj\Debug\net8.0\ECommerce.Api.Customers.genruntimeconfig.cache
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Customers\obj\Debug\net8.0\ref\ECommerce.Api.Customers.dll
+D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Customers\obj\Debug\net8.0\ECommerce.Api.Customers.sourcelink.json

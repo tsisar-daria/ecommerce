@@ -35,3 +35,4 @@ D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Products\bin\Debug\net8.0
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Products\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Products\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Products\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\5 курс\2 семестр\ECommerce\ECommerce.Api.Products\obj\Debug\net8.0\ECommerce.Api.Products.sourcelink.json
