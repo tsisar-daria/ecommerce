@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{322F77B0-82D1-4C88-B4E3-986A93B75D43}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|d:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ecommerce\\ecommerce.api.customers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322F77B0-82D1-4C88-B4E3-986A93B75D43}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D909F9B-712B-4292-9006-3745AC4B9346}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|d:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ecommerce\\ecommerce.api.products\\ecommerce.api.products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7D909F9B-712B-4292-9006-3745AC4B9346}|ECommerce.Api.Products\\ECommerce.Api.Products.csproj|solutionrelative:ecommerce.api.products\\ecommerce.api.products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -115,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{4D4346F0-FA17-4D16-A151-8BF07FF54F44}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322F77B0-82D1-4C88-B4E3-986A93B75D43}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|d:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ecommerce\\ecommerce.api.customers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{322F77B0-82D1-4C88-B4E3-986A93B75D43}|ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj|solutionrelative:ecommerce.api.customers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D4346F0-FA17-4D16-A151-8BF07FF54F44}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|d:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ecommerce\\ecommerce.api.orders\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D4346F0-FA17-4D16-A151-8BF07FF54F44}|ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj|solutionrelative:ecommerce.api.orders\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -202,11 +202,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ECommerce.Api.Products.csproj",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
@@ -219,20 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ECommerce.Api.Orders.csproj",
-              "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
-              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
-              "ToolTip": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
-              "RelativeToolTip": "ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-16T10:26:47.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ECommerce.Api.Customers.csproj",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj",
@@ -240,12 +227,11 @@
               "RelativeToolTip": "ECommerce.Api.Customers\\ECommerce.Api.Customers.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-16T10:01:29.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T10:01:29.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ECommerce.Api.Search.csproj",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
@@ -253,12 +239,36 @@
               "RelativeToolTip": "ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-16T12:43:58.601Z",
+              "WhenOpened": "2024-06-16T12:43:58.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Customers\\Startup.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Startup.cs",
+              "ToolTip": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Customers\\Startup.cs",
+              "RelativeToolTip": "ECommerce.Api.Customers\\Startup.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:19:29.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "ECommerce.Api.Orders.csproj",
+              "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+              "ToolTip": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+              "RelativeToolTip": "ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T10:26:47.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\appsettings.json",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\appsettings.json",
@@ -266,12 +276,11 @@
               "RelativeToolTip": "ECommerce.Api.Search\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-16T12:09:35.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-16T12:09:35.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Program.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Program.cs",
@@ -279,12 +288,11 @@
               "RelativeToolTip": "ECommerce.Api.Search\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T17:38:54.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T17:38:54.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductsServiceTest.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Products.Tests\\ProductsServiceTest.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products.Tests\\ProductsServiceTest.cs",
@@ -292,12 +300,11 @@
               "RelativeToolTip": "ECommerce.Api.Products.Tests\\ProductsServiceTest.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAswAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T20:42:25.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T20:42:25.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CustomersProvider.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Customers\\Providers\\CustomersProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Providers\\CustomersProvider.cs",
@@ -309,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IProductsService.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
@@ -321,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SearchService.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Services\\SearchService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\SearchService.cs",
@@ -333,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ISearchService.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
@@ -345,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Startup.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Startup.cs",
@@ -357,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ICustomersService.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Interfaces\\ICustomersService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\ICustomersService.cs",
@@ -369,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CustomersService.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Services\\CustomersService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\CustomersService.cs",
@@ -381,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ProductsService.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Services\\ProductsService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\ProductsService.cs",
@@ -393,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "OrdersService.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Services\\OrdersService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\OrdersService.cs",
@@ -405,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\Product.cs",
@@ -417,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IOrdersService.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IOrdersService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\IOrdersService.cs",
@@ -429,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\OrderItem.cs",
@@ -441,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Models\\Order.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\Order.cs",
@@ -453,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Properties\\launchSettings.json",
@@ -465,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "SearchController.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Controllers\\SearchController.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Controllers\\SearchController.cs",
@@ -477,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "SearchTerm.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Search\\Models\\SearchTerm.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\SearchTerm.cs",
@@ -489,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Products\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Properties\\launchSettings.json",
@@ -501,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Products\\Startup.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Startup.cs",
@@ -513,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Orders\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Controllers\\OrdersController.cs",
@@ -525,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "IOrdersProvider.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
@@ -549,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Orders\\Startup.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Startup.cs",
@@ -558,18 +565,6 @@
               "ViewState": "AQIAADEAAAAAAAAAAAAiwD0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T09:37:35.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Customers\\Startup.cs",
-              "RelativeDocumentMoniker": "ECommerce.Api.Customers\\Startup.cs",
-              "ToolTip": "D:\\5 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\ECommerce\\ECommerce.Api.Customers\\Startup.cs",
-              "RelativeToolTip": "ECommerce.Api.Customers\\Startup.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAiwCIAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T10:19:29.367Z"
             },
             {
               "$type": "Document",
