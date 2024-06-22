@@ -1,0 +1,68 @@
+name: dockercompose17487321202617158259
+services:
+  ecommerce.api.customers:
+    build:
+      context: D:\5 курс\2 семестр\конференція\ECommerce
+      dockerfile: ECommerce.Api.Customers/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: ecommerceapicustomers
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "6002"
+        protocol: tcp
+  ecommerce.api.orders:
+    build:
+      context: D:\5 курс\2 семестр\конференція\ECommerce
+      dockerfile: ECommerce.Api.Orders/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: ecommerceapiorders
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "6003"
+        protocol: tcp
+  ecommerce.api.products:
+    build:
+      context: D:\5 курс\2 семестр\конференція\ECommerce
+      dockerfile: ECommerce.Api.Products/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: ecommerceapiproducts
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "6001"
+        protocol: tcp
+  ecommerce.api.search:
+    build:
+      context: D:\5 курс\2 семестр\конференція\ECommerce
+      dockerfile: ECommerce.Api.Search/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      SERVICES__CUSTOMERS: http://ecommerce.api.customers:8080
+      SERVICES__ORDERS: http://ecommerce.api.orders:8080
+      SERVICES__PRODUCTS: http://ecommerce.api.products:8080
+    image: ecommerceapisearch
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "6004"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose17487321202617158259_default

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj": {}
+    "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj": {}
   },
   "projects": {
-    "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj": {
+    "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
+        "projectUniqueName": "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
         "projectName": "ECommerce.Api.Products.Tests",
-        "projectPath": "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
+        "projectPath": "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Products.Tests\\obj\\",
+        "outputPath": "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Products.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
-                "projectPath": "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj"
+              "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
+                "projectPath": "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
+    "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+        "projectUniqueName": "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
         "projectName": "ECommerce.Api.Products",
-        "projectPath": "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+        "projectPath": "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Products\\obj\\",
+        "outputPath": "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Products\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,6 +140,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

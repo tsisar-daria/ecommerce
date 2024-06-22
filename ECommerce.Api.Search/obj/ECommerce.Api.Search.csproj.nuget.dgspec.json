@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {}
+    "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {}
   },
   "projects": {
-    "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {
+    "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
+        "projectUniqueName": "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
         "projectName": "ECommerce.Api.Search",
-        "projectPath": "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
+        "projectPath": "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\5 курс\\2 семестр\\ECommerce\\ECommerce.Api.Search\\obj\\",
+        "outputPath": "D:\\5 курс\\2 семестр\\конференція\\ECommerce\\ECommerce.Api.Search\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,6 +61,10 @@
             "Microsoft.Extensions.Http.Polly": {
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
